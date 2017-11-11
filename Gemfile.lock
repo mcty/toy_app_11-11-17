@@ -181,6 +181,7 @@ DEPENDENCIES
   byebug (= 9.0.6)
   capybara (~> 2.13)
   coffee-rails (= 4.2.2)
+  execjs
   jbuilder (= 2.7.0)
   jquery-rails (= 4.3.1)
   listen (= 3.0.8)
